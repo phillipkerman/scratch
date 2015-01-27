@@ -2,7 +2,7 @@ Easy link to return here:
 http://tinyurl.com/rrcat
 =======
 * Scratch website: http://scratch.mit.edu/
-	*(Get an account and then click "create".)
+	* (Create an account and then click "create".)
 
 
 * Starter files for JavaScript:
