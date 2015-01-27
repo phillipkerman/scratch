@@ -1,16 +1,11 @@
 Easy link to return here:
 http://tinyurl.com/rrcat
-
-Scratch website:
-http://scratch.mit.edu/
-
-(Get an account and then click "create".)
+=======
+* Scratch website: http://scratch.mit.edu/
+	*(Get an account and then click "create".)
 
 
-Starter files for JavaScript:
-Canvas basics:
-http://jsfiddle.net/phillipkerman/3ywrf1cy/
-
-Listen for clicks:
-http://jsfiddle.net/phillipkerman/RpMvY/
+* Starter files for JavaScript:
+* Canvas basics: http://jsfiddle.net/phillipkerman/3ywrf1cy/
+* Listen for clicks: http://jsfiddle.net/phillipkerman/RpMvY/
 
