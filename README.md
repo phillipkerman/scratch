@@ -2,10 +2,11 @@ Easy link to return here:
 http://tinyurl.com/rrcat
 
 ======
-* Goals: 
+* Goals (starting in week 3): 
 	* Learn about "broadcasting" (under Events)
 	* Learn about "variables" (under Data)
 	* Learn about if-statements (under Control) and conditionals (under Operators)
+	* Learn about cloning.
 * Week 3, My Starter "pong": http://scratch.mit.edu/projects/47317790/
 * Week 3, My "pong" with bug: http://scratch.mit.edu/projects/47319250/
 * Week 3, My rough "pong" in JavaScript: http://jsfiddle.net/phillipkerman/85pxyeka/
