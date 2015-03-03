@@ -1,6 +1,20 @@
 Easy link to return here:
 http://tinyurl.com/rrcat
 
+====== Week X (5?)
+* Starter files
+	--grid "game" http://scratch.mit.edu/projects/50545478/
+	--super simple jump motion physics for jump motion: http://scratch.mit.edu/projects/50536484/
+* Research and create simple example to demonstrate:
+	--broadcasting
+	--make your own "block" 
+	--(peek at "extensions")
+	--costumes or any graphic feature.
+* Go through step-by-step guides (from "?" in circle)
+
+
+
+
 ====== Week 3
 * Goals (starting in week 3): 
 	* Learn about "broadcasting" (under Events)
