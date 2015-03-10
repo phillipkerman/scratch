@@ -1,7 +1,18 @@
 Easy link to return here:
 http://tinyurl.com/rrcat
 
-====== Week X (5?)
+
+====== Week Y (This week!)
+* Learn/share Scratch features:
+	* costumes
+	* broadcasting, making own block
+	* other?
+
+* See modulus example: http://scratch.mit.edu/projects/51763362/
+* See array example: http://scratch.mit.edu/projects/51764866/
+
+
+====== Week X (5? --last week)
 * Starter files
 	* grid "game" http://scratch.mit.edu/projects/50545478/
 	* super simple jump motion physics for jump motion: http://scratch.mit.edu/projects/50536484/
