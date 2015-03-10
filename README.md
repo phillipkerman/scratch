@@ -10,7 +10,7 @@ http://tinyurl.com/rrcat
 
 * See modulus example: http://scratch.mit.edu/projects/51763362/
 * See array example: http://scratch.mit.edu/projects/51764866/
-
+* Look at JavaScript
 
 ====== Week X (5? --last week)
 * Starter files
