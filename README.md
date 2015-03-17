@@ -1,8 +1,13 @@
 Easy link to return here:
 http://tinyurl.com/rrcat
 
+====== Week Z (This week!)
+* Sample "onslaught" game: http://scratch.mit.edu/projects/51797122/
+* Opportunity to share
+* As group detail features in original Onslaught game.
+* Look at JavaScript
 
-====== Week Y (This week!)
+====== Week Y (Last week!)
 * Learn/share Scratch features:
 	* costumes
 	* broadcasting, making own block
@@ -12,7 +17,7 @@ http://tinyurl.com/rrcat
 * See array example: http://scratch.mit.edu/projects/51764866/
 * Look at JavaScript
 
-====== Week X (5? --last week)
+====== Week X (5? --the week before last week)
 * Starter files
 	* grid "game" http://scratch.mit.edu/projects/50545478/
 	* super simple jump motion physics for jump motion: http://scratch.mit.edu/projects/50536484/
