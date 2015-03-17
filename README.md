@@ -4,7 +4,9 @@ http://tinyurl.com/rrcat
 ====== Week Z (This week!)
 * Sample "onslaught" game: http://scratch.mit.edu/projects/51797122/
 * Opportunity to share
-* As group detail features in original Onslaught game.
+* Choice for group discussion:
+	* start to list features in original Onslaught game.
+	* together, build from scratch the onslaught game.
 * Look at JavaScript
 
 ====== Week Y (Last week!)
