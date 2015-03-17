@@ -7,7 +7,12 @@ http://tinyurl.com/rrcat
 * Choice for group discussion:
 	* start to list features in original Onslaught game.
 	* together, build from scratch the onslaught game.
-* Look at JavaScript
+* Look at JavaScript:
+	* basic graphics: http://jsfiddle.net/phillipkerman/3ywrf1cy/
+	* requestAnimationFrame: http://jsfiddle.net/phillipkerman/c8mg71rv/
+	* listening for "click": http://jsfiddle.net/phillipkerman/RpMvY/
+
+
 
 ====== Week Y (Last week!)
 * Learn/share Scratch features:
